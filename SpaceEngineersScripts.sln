@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceEngineersScripts", "SpaceEngineersScripts\SpaceEngineersScripts.csproj", "{B3B47362-5547-4727-B169-A646FF5AC327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B47362-5547-4727-B169-A646FF5AC327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B47362-5547-4727-B169-A646FF5AC327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B47362-5547-4727-B169-A646FF5AC327}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B3B47362-5547-4727-B169-A646FF5AC327}.Debug|x64.Build.0 = Debug|Any CPU
+		{B3B47362-5547-4727-B169-A646FF5AC327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B47362-5547-4727-B169-A646FF5AC327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B47362-5547-4727-B169-A646FF5AC327}.Release|x64.ActiveCfg = Release|Any CPU
+		{B3B47362-5547-4727-B169-A646FF5AC327}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A88946-8B2E-4650-8594-A4E1A8486381}
+	EndGlobalSection
+EndGlobal
